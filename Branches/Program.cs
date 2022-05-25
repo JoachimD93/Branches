@@ -9,5 +9,10 @@ namespace Branches
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello c!");
         }
+
+        static void aName()
+        {
+
+        }
     }
 }
