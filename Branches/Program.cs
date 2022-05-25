@@ -16,5 +16,13 @@ namespace Branches
         {
             Console.WriteLine("Joachim");
         }
+
+        public void ValterMethod()
+        { }
+
+        static void aName()
+        {
+
+        }
     }
 }
