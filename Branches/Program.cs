@@ -8,6 +8,13 @@ namespace Branches
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello c!");
+
+            WriteName();
+        }
+
+        static void WriteName()
+        {
+            Console.WriteLine("Joachim");
         }
     }
 }
