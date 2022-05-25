@@ -12,5 +12,10 @@ namespace Branches
 
         public void ValterMethod()
         { }
+
+        static void aName()
+        {
+
+        }
     }
 }
