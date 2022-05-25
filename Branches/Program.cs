@@ -9,5 +9,8 @@ namespace Branches
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello c!");
         }
+
+        public void ValterMethod()
+        { }
     }
 }
